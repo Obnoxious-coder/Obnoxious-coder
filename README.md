@@ -19,7 +19,9 @@ You can find me here :
 <p align="left">
   <a href="https://www.linkedin.com/in/jonathan-dabreo-2b04a6143/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jonathandabreo24@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
 ## About Me
+  
 - 🔭 I am a final year student with majors in Computer Science from India!
 - 🌱 I’m currently experimenting with developing and deploying APIs.
 - 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Web3, Machine Learning and open source !
