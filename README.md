@@ -22,7 +22,6 @@ You can find me here :
   
 ## About Me
   
-- 🔭 I am a final year student with majors in Computer Science from India!
 - 🌱 I’m currently experimenting with developing and deploying APIs.
 - 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Web3, Machine Learning and open source !
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
