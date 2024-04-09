@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Jonathan Dabreo 🌵</title>
+    <link>https://example.org/blog/</link>
+    <description>Recent content in Blogs on Jonathan Dabreo 🌵</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2024 11:19:58 +0530</lastBuildDate>
+    <atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solo Leveling!</title>
+      <link>https://example.org/blog/post1/</link>
+      <pubDate>Sun, 31 Mar 2024 11:19:58 +0530</pubDate>
+      <guid>https://example.org/blog/post1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
